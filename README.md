@@ -19,7 +19,7 @@ Este projeto foi testado e funciona corretamente em:
 
 ## 📥 Download
 ![GitHub release](https://img.shields.io/github/v/release/Nyne1155/Relogio-flutuante)
-[📦 Baixar v1.0.1](https://github.com/Nyne1155/Relogio-flutuante/releases/tag/v1.0.1)
+[![Versão](https://img.shields.io/badge/Versão-v1.0.1-blue)](https://github.com/Nyne1155/Relogio-flutuante/releases/tag/v1.0.1)
 ![Stars](https://img.shields.io/github/stars/Nyne1155/Relogio-flutuante)
 
 SIGNED: nyne
