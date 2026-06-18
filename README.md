@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="versoes/1.0.0/banner.png" width="900">
+  <img src="versoes/1.0.0/bnn.png" width="900">
 </p>
 
 # 🕒 Relogio-flutuante
