@@ -3,7 +3,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Nyne1155/Relogio-flutuante/total)](https://github.com/Nyne1155/Relogio-flutuante/releases)
 [![Licença](https://img.shields.io/github/license/Nyne1155/Relogio-flutuante)](https://github.com/Nyne1155/Relogio-flutuante/blob/main/LICENSE)
 
-![Screenshot](versoes/1.0.0/imegem v1.0.1.png)
+![Screenshot](versoes/1.0.0/img.png)
 
 RELOGIO flutuante v1.0.1
 [RELOGIO v1.0.1.zip](https://github.com/user-attachments/files/29105475/RELOGIO.v1.0.0.zip)
