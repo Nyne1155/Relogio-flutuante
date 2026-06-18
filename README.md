@@ -13,8 +13,12 @@ NOVA VERSÃO!
 - Atualização recomendada para todos os usuários.
 Novas versões serão lançadas em breve :)
 
-## Compatibilidade
+## 💻Compatibilidade
 Este projeto foi testado e funciona corretamente em:
 - **Windows** (todas as versões recentes)
+
+## 📥 Download
+![GitHub release](https://img.shields.io/github/v/release/Nyne1155/Relogio-flutuante)
+![Versão](https://img.shields.io/badge/RELÓGIO-v1.0.1-00aaff)
 
 SIGNED: nyne
