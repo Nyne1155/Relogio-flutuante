@@ -1,4 +1,8 @@
-# Relogio-flutuante
+<p align="center">
+  <img src="versoes/1.0.0/banner.png" width="900">
+</p>
+
+# 🕒 Relogio-flutuante
 [![Versão](https://img.shields.io/github/v/release/Nyne1155/Relogio-flutuante)](https://github.com/Nyne1155/Relogio-flutuante/releases)
 ![Downloads](https://img.shields.io/github/downloads/Nyne1155/Relogio-flutuante/total)
 [![Licença](https://img.shields.io/github/license/Nyne1155/Relogio-flutuante)](https://github.com/Nyne1155/Relogio-flutuante/blob/main/LICENSE)
