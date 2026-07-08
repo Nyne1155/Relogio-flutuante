@@ -1,11 +1,8 @@
 <div align="center">
-  <a href="https://seu-link-de-download-aqui">
-    <img src="https://via.placeholder.com/520x220/0a0a0a/00ff00?text=16:39:12" 
-         alt="Relógio Digital" 
-         style="border:3px solid #00ff00; border-radius:12px; box-shadow:0 0 30px #00ff00;">
+  <a href="https://SEUUSUARIO.github.io/NOME-DO-REPOSITORIO/clock/" target="_blank">
+    <img src="clock.gif" alt="Relógio Digital" width="520">
   </a>
-  <br><br>
-  <strong>Relógio Digital v1.2</strong> • Clique para baixar
+  <p><strong>Clique no relógio para ver ao vivo</strong></p>
 </div>
 
 # 🕒 Relogio-flutuante
