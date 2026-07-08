@@ -1,20 +1,11 @@
 <div align="center">
-
-  <a href="https://seu-link-de-download-aqui" target="_blank">
-    <div style="background:#0a0a0a; padding:30px 40px; border-radius:16px; display:inline-block; border:3px solid #00ff00; box-shadow:0 0 40px rgba(0,255,0,0.35); max-width:520px;">
-      
-      <div style="font-family:'Courier New', monospace; font-size:78px; font-weight:bold; color:#00ff00; text-shadow:0 0 15px #00ff00, 0 0 30px #00ff00; letter-spacing:6px; background:rgba(0,20,0,0.6); padding:12px 35px; border-radius:8px; border:2px solid #003300;">
-        16:39:12
-      </div>
-      
-      <div style="margin-top:14px; color:#00cc00; font-family:monospace; display:flex; justify-content:space-between; font-size:17px;">
-        <span>● LIVE</span>
-        <span>08 JUL 2026</span>
-        <span>v1.2</span>
-      </div>
-    </div>
+  <a href="https://seu-link-de-download-aqui">
+    <img src="https://via.placeholder.com/520x220/0a0a0a/00ff00?text=16:39:12" 
+         alt="Relógio Digital" 
+         style="border:3px solid #00ff00; border-radius:12px; box-shadow:0 0 30px #00ff00;">
   </a>
-
+  <br><br>
+  <strong>Relógio Digital v1.2</strong> • Clique para baixar
 </div>
 
 # 🕒 Relogio-flutuante
