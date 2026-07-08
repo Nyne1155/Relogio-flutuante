@@ -6,12 +6,12 @@
 ![Downloads](https://img.shields.io/github/downloads/Nyne1155/Relogio-flutuante/total)
 [![Licença](https://img.shields.io/github/license/Nyne1155/Relogio-flutuante)](https://github.com/Nyne1155/Relogio-flutuante/blob/main/LICENSE)
 
-![Screenshot](versoes/1.0.0/img.png)
+![Screenshot](versoes/2.0/int.png)
 
-RELOGIO flutuante v1.0.1
+RELOGIO flutuante v2.0
 [RELOGIO v1.0.1.zip](https://github.com/user-attachments/files/29105475/RELOGIO.v1.0.0.zip)
 NOVA VERSÃO!
-- Corrigido um bug de crash inesperado que acontecia durante a inicialização da versão 1.0.0
+- Corrigido um bug de crash inesperado que acontecia durante a inicialização da versão 1.0
 - Estabilidade e desempenho melhorados.
 - Atualização recomendada para todos os usuários.
 Novas versões serão lançadas em breve :)
@@ -22,6 +22,7 @@ Este projeto foi testado e funciona corretamente em:
 
 ## 📥 Download
 ![GitHub release](https://img.shields.io/github/v/release/Nyne1155/Relogio-flutuante)
+[![Versão](https://img.shields.io/badge/Versão-v1.0.1-blue)](https://github.com/Nyne1155/Relogio-flutuante/releases/tag/v2.0)
 [![Versão](https://img.shields.io/badge/Versão-v1.0.1-blue)](https://github.com/Nyne1155/Relogio-flutuante/releases/tag/v1.0.1)
 ![Stars](https://img.shields.io/github/stars/Nyne1155/Relogio-flutuante)
 
@@ -32,15 +33,23 @@ Este projeto foi testado e funciona corretamente em:
 - ✅ Baixo consumo de memória
 - ✅ Inicialização rápida
 - 🚧 Temas personalizados
-- 🚧 Transparência avançada
+- ✅ Transparência avançada
+- ✅ Mobilidade com um clique
 
 ## 📜 Changelog
 
-### v1.0.1
+### v2.0
+- Nova interface grafica
+![Screenshot](versoes/2.0int.png)
+
+- Mobilidade com um clique
+- ![Video](versoes/2.0/demo.gif)
+
+## v1.0.1
 - Corrigido crash na inicialização
 - Melhorias de desempenho
 
-### v1.0.0
+## v1.0.0
 - Primeira versão pública
 
 criado por: nyne1155
