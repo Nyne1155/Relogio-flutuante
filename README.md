@@ -1,9 +1,5 @@
-<div align="center">
-  <a href="https://SEUUSUARIO.github.io/NOME-DO-REPOSITORIO/clock/" target="_blank">
-    <img src="clock.gif" alt="Relógio Digital" width="520">
-  </a>
-  <p><strong>Clique no relógio para ver ao vivo</strong></p>
-</div>
+<img src="clock.gif" alt="Relógio Digital" width="520" center>
+
 
 # 🕒 Relogio-flutuante
 [![Versão](https://img.shields.io/github/v/release/Nyne1155/Relogio-flutuante)](https://github.com/Nyne1155/Relogio-flutuante/releases)
