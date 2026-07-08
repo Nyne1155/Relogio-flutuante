@@ -1,5 +1,6 @@
-<img src="clock.gif" alt="Relógio Digital" width="520" center>
-
+<div align="center">
+  <img src="versoes/2.0/int.gif" alt="Clock App" width="600">
+</div>
 
 # 🕒 Relogio-flutuante
 [![Versão](https://img.shields.io/github/v/release/Nyne1155/Relogio-flutuante)](https://github.com/Nyne1155/Relogio-flutuante/releases)
@@ -40,10 +41,14 @@ Este projeto foi testado e funciona corretamente em:
 
 ### v2.0
 - Nova interface grafica
-![Screenshot](versoes/2.0int.png)
+<div align="center">
+  <img src="versoes/2.0/int.png" alt="Clock App" width="600">
+</div>
 
 - Mobilidade com um clique
-- ![Video](versoes/2.0/demo.gif)
+<div align="center">
+  <img src="versoes/2.0/demo-m.gif" alt="Clock App" width="600">
+</div>
 
 ## v1.0.1
 - Corrigido crash na inicialização
