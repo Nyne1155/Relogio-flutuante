@@ -10,7 +10,6 @@
 ![Screenshot](versoes/2.0/int.png)
 
 RELOGIO flutuante v2.0
-[RELOGIO v1.0.1.zip](https://github.com/user-attachments/files/29105475/RELOGIO.v1.0.0.zip)
 NOVA VERSÃO!
 - Corrigido um bug de crash inesperado que acontecia durante a inicialização da versão 1.0
 - Estabilidade e desempenho melhorados.
